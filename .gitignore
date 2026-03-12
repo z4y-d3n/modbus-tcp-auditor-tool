@@ -1,0 +1,27 @@
+# Compiled binaries and archives
+*.bin
+*.elf
+*.hex
+*.map
+*.a
+
+# Arduino IDE / CLI build directories
+build/
+Builds/
+
+# OS generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor and IDE configurations
+.vscode/
+.pio/
+*.code-workspace
